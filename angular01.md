@@ -1,5 +1,5 @@
-Alien Reporter
-==============
+Angular components
+==================
 
 Mobil Information Systems would like you to take a programming test.
 
