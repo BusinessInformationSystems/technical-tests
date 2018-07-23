@@ -1,5 +1,5 @@
-Technical Test 01
-=================
+Alien Reporter
+==============
 
 Mobil Information Systems would like you to take a programming test.
 
