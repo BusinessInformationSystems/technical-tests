@@ -31,14 +31,13 @@ export class AppRoutingModule {}
 
 Scope
 -----
-Please tell what will be displayed in each case:
 Which of the following statements about the routers behavior are correct?
 
-The home component can only be accessed via the root URL redirect.
-The id parameter is optional when a call is made to the /detail/ URL.
-Optional parameters can be passed to any component via the query parameters of the ActivatedRoute.
-/detail/100 will use the <router-outlet name='route1'> to determine the position of the view.
-Specifying an outlet name is a requirement for a component with multiple outlet routes.
+- The home component can only be accessed via the root URL redirect.
+- The id parameter is optional when a call is made to the /detail/ URL.
+- Optional parameters can be passed to any component via the query parameters of the ActivatedRoute.
+- /detail/100 will use the <router-outlet name='route1'> to determine the position of the view.
+- Specifying an outlet name is a requirement for a component with multiple outlet routes.
 
 
 
