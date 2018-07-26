@@ -5,7 +5,7 @@ Mobil Information Systems would like you to take a programming test.
 
 Instructions
 ------------
-Please create a git with your solution and send us back the link.
+Please create a gist with your solution and send us back the link.
 
 Description
 -----------
