@@ -5,7 +5,7 @@ Mobil Information Systems would like you to take a programming test.
 
 Instructions
 ------------
-Please create a gist with your solution and send us back the link.
+Please send a link with the a repository. You are also encouraged to publish your project on stackblitz.
 
 Description
 -----------
